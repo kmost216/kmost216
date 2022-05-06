@@ -1,5 +1,4 @@
 <p align="center">
-<<<<<<< HEAD
   <img align="center" src="https://github.com/kmost216/kmost216/blob/main/logo1.png?raw=true" style = "width: -webkit-fill-available;"/>
   <img align="center" src="https://github.com/kmost216/kmost216/logo1.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
