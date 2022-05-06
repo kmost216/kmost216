@@ -1,9 +1,7 @@
 <p align="center">
 <<<<<<< HEAD
-  <img align="center" src="https://github.com/kmost216/kmost216/image/logo1.png?raw=true" style = "width: -webkit-fill-available;"/>
-=======
+  <img align="center" src="https://github.com/kmost216/kmost216/blob/main/logo1.png?raw=true" style = "width: -webkit-fill-available;"/>
   <img align="center" src="https://github.com/kmost216/kmost216/logo1.jpg?raw=true" style = "width: -webkit-fill-available;"/>
->>>>>>> f4bb68316e0746d9ac6285696ac3f822d0d15fee
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
